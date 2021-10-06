@@ -48,7 +48,7 @@ Mulailah berkontribusi di berbagai repository di github
 
 ## Kontributor List
 
- <img src="https://contrib.rocks/image?repo=fdciabdul/Hacktoberfest-Indonesia-2021" />
+  <img src="https://contrib.rocks/image?repo=fdciabdul/Hacktoberfest-Indonesia-2021" />
 Kalian bisa melihat siapa saja yang berkontribusi dalam repository ini
 
 <a href="https://fdciabdul.github.io/Hacktoberfest-Indonesia-2021/"/> Kontributor List</a>
@@ -136,6 +136,24 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 ---
 
+## Embed
+
+ ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
+  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
+
+Copy kode dibawah ini kedalam file berformat markdown. contoh [file markdown](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021/blob/main/README.md)
+
+Dark 
+
+```
+ ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
+```
+
+White
+
+```
+  ![https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github-readme-stats.vercel.app/api/pin/?username=fdciabdul&repo=Hacktoberfest-Indonesia-2021&show_owner=true)
+```
 ## Special Thanks
 
 - [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Git
